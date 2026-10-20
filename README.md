@@ -4,6 +4,16 @@ Ich verbinde Erfahrung in der Projekt- und Bauleitung mit digitalen Praxisprojek
 
 Mich interessiert, wie digitale Produkte den Arbeitsalltag erleichtern – von verständlichen Websites bis zu strukturierten Kunden- und Projektabläufen.
 
+## Demo in einer Minute testen
+
+**[Bauübersicht öffnen →](https://cembagana62-jpg.github.io/bauprojekt-dashboard/)** · Ohne Anmeldung
+
+1. Ein Bauprojekt auswählen.
+2. Eine Aufgabe bearbeiten und auf **Erledigt** setzen.
+3. Beobachten, wie sich offene Punkte und Fortschritt aktualisieren.
+
+KI-unterstütztes Portfolio-Projekt mit fiktiven Beispieldaten. Änderungen bleiben im jeweiligen Browser gespeichert.
+
 ## Meine Schwerpunkte
 
 - Projektplanung, Teamkoordination und Anforderungsmanagement
