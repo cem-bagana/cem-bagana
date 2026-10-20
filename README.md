@@ -17,7 +17,7 @@ Mich interessiert, wie digitale Produkte den Arbeitsalltag erleichtern – von v
 
 **[Kamm In · Projektvorstellung](https://github.com/cembagana62-jpg/kamm-in-case-study)** – Website und digitale Kundenwege für einen Friseursalon. Mit Portfolio-Aufnahmen, meinem Beitrag und klarer Einordnung von Umsetzung und Planung.
 
-**All Villa** – Webprojekt rund um Ferienvillen und Buchungsabläufe.
+**[All Villa · Projektvorstellung](https://github.com/cembagana62-jpg/all-villa-case-study)** – Deutschsprachige Ferienvillen-Plattform mit Fokus auf Suche, Nutzerführung und Buchungsvorbereitung. Mit Portfolio-Aufnahme und dokumentiertem Entwicklungsstand.
 
 Einblicke und Projektbeschreibungen findest du auf meinem [Portfolio](https://www.cembagana.de/).
 
