@@ -6,7 +6,7 @@ Mich interessiert, wie digitale Produkte den Arbeitsalltag erleichtern – von v
 
 ## Demo in einer Minute testen
 
-**[Bauübersicht öffnen →](https://cembagana62-jpg.github.io/bauprojekt-dashboard/)** · Ohne Anmeldung
+**[Bauübersicht öffnen →](https://cem-bagana.github.io/bauprojekt-dashboard/)** · Ohne Anmeldung
 
 1. Ein Bauprojekt auswählen.
 2. Eine Aufgabe bearbeiten und auf **Erledigt** setzen.
@@ -23,15 +23,15 @@ KI-unterstütztes Portfolio-Projekt mit fiktiven Beispieldaten. Änderungen blei
 
 ## Einblicke in meine Projekte
 
-**[Bauübersicht · Interaktive Demo](https://cembagana62-jpg.github.io/bauprojekt-dashboard/)** – Bauprojekte, Aufgaben, Mängel und Termine organisieren. Neues, KI-unterstütztes Demo-Projekt mit fiktiven Daten und [einsehbarem Quellcode](https://github.com/cembagana62-jpg/bauprojekt-dashboard).
+**[Bauübersicht · Interaktive Demo](https://cem-bagana.github.io/bauprojekt-dashboard/)** – Bauprojekte, Aufgaben, Mängel und Termine organisieren. Neues, KI-unterstütztes Demo-Projekt mit fiktiven Daten und [einsehbarem Quellcode](https://github.com/cem-bagana/bauprojekt-dashboard).
 
-**[tennify · Projektvorstellung](https://github.com/cembagana62-jpg/tennify-case-study)** – Website und App im Team weiterentwickelt, Bugs in Sprints behoben sowie Mitgliederverwaltung und Buchungstermine überarbeitet.
+**[tennify · Projektvorstellung](https://github.com/cem-bagana/tennify-case-study)** – Website und App im Team weiterentwickelt, Bugs in Sprints behoben sowie Mitgliederverwaltung und Buchungstermine überarbeitet.
 
-**[FA Finance · Projektvorstellung](https://github.com/cembagana62-jpg/fa-finance-case-study)** – Website und CRM zur strukturierten Bearbeitung von Kundenanfragen. Mit Screenshots, meinem Beitrag und dokumentiertem Entwicklungsstand.
+**[FA Finance · Projektvorstellung](https://github.com/cem-bagana/fa-finance-case-study)** – Website und CRM zur strukturierten Bearbeitung von Kundenanfragen. Mit Screenshots, meinem Beitrag und dokumentiertem Entwicklungsstand.
 
-**[Kamm In · Projektvorstellung](https://github.com/cembagana62-jpg/kamm-in-case-study)** – Website und digitale Kundenwege für einen Friseursalon. Mit Portfolio-Aufnahmen, meinem Beitrag und klarer Einordnung von Umsetzung und Planung.
+**[Kamm In · Projektvorstellung](https://github.com/cem-bagana/kamm-in-case-study)** – Website und digitale Kundenwege für einen Friseursalon. Mit Portfolio-Aufnahmen, meinem Beitrag und klarer Einordnung von Umsetzung und Planung.
 
-**[All Villa · Projektvorstellung](https://github.com/cembagana62-jpg/all-villa-case-study)** – Deutschsprachige Ferienvillen-Plattform mit Fokus auf Suche, Nutzerführung und Buchungsvorbereitung. Mit Portfolio-Aufnahme und dokumentiertem Entwicklungsstand.
+**[All Villa · Projektvorstellung](https://github.com/cem-bagana/all-villa-case-study)** – Deutschsprachige Ferienvillen-Plattform mit Fokus auf Suche, Nutzerführung und Buchungsvorbereitung. Mit Portfolio-Aufnahme und dokumentiertem Entwicklungsstand.
 
 Einblicke und Projektbeschreibungen findest du auf meinem [Portfolio](https://www.cembagana.de/).
 
