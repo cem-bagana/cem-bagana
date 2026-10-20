@@ -13,6 +13,8 @@ Mich interessiert, wie digitale Produkte den Arbeitsalltag erleichtern – von v
 
 ## Einblicke in meine Projekte
 
+**[tennify · Projektvorstellung](https://github.com/cembagana62-jpg/tennify-case-study)** – Website und App im Team weiterentwickelt, Bugs in Sprints behoben sowie Mitgliederverwaltung und Buchungstermine überarbeitet.
+
 **[FA Finance · Projektvorstellung](https://github.com/cembagana62-jpg/fa-finance-case-study)** – Website und CRM zur strukturierten Bearbeitung von Kundenanfragen. Mit Screenshots, meinem Beitrag und dokumentiertem Entwicklungsstand.
 
 **[Kamm In · Projektvorstellung](https://github.com/cembagana62-jpg/kamm-in-case-study)** – Website und digitale Kundenwege für einen Friseursalon. Mit Portfolio-Aufnahmen, meinem Beitrag und klarer Einordnung von Umsetzung und Planung.
