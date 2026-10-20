@@ -13,6 +13,8 @@ Mich interessiert, wie digitale Produkte den Arbeitsalltag erleichtern – von v
 
 ## Einblicke in meine Projekte
 
+**[Bauübersicht · Interaktive Demo](https://cembagana62-jpg.github.io/bauprojekt-dashboard/)** – Bauprojekte, Aufgaben, Mängel und Termine organisieren. Neues, KI-unterstütztes Demo-Projekt mit fiktiven Daten und [einsehbarem Quellcode](https://github.com/cembagana62-jpg/bauprojekt-dashboard).
+
 **[tennify · Projektvorstellung](https://github.com/cembagana62-jpg/tennify-case-study)** – Website und App im Team weiterentwickelt, Bugs in Sprints behoben sowie Mitgliederverwaltung und Buchungstermine überarbeitet.
 
 **[FA Finance · Projektvorstellung](https://github.com/cembagana62-jpg/fa-finance-case-study)** – Website und CRM zur strukturierten Bearbeitung von Kundenanfragen. Mit Screenshots, meinem Beitrag und dokumentiertem Entwicklungsstand.
