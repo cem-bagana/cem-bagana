@@ -13,7 +13,7 @@ Mich interessiert, wie digitale Produkte den Arbeitsalltag erleichtern – von v
 
 ## Einblicke in meine Projekte
 
-**FA Finance** – Website und CRM zur strukturierten Bearbeitung von Kundenanfragen.
+**[FA Finance · Projektvorstellung](https://github.com/cembagana62-jpg/fa-finance-case-study)** – Website und CRM zur strukturierten Bearbeitung von Kundenanfragen. Mit Screenshots, meinem Beitrag und dokumentiertem Entwicklungsstand.
 
 **Kamm In** – Website-Projekt für einen Friseursalon mit Fokus auf die digitale Kundenansprache.
 
